@@ -1,0 +1,8 @@
+
+1. Continuous Integration - the process of automating code changes from multiple soucres into one existing project (single source repo). The aim of continuous integration is to automate the build and make the build self-testing. Continuous integration must be fast (<5 minutes) and broken builds should be fixed immediately.
+
+2. Pipeline stages:
+
+Plan-> Code -> Build -> Test -> Release -> Deploy -> Operate -> Monitor
+
+- a never ending cycle
